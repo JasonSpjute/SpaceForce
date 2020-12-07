@@ -15,5 +15,11 @@
   transform: translateY(17%);
 }
 
+.back{
+  background-color: #2b4e73;
+}
 
+.cursive{
+  font-family: 'Major Mono Display', monospace;
+}
 
