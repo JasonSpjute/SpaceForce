@@ -5,13 +5,13 @@
 }
 
 .parent-spill{
-  height: 30vh;
+  min-height: 30vh;
   position: relative;
 }
 
 .spillage{
   position: absolute;
   bottom: 0;
-  transform: translateY(30%);
+  transform: translateY(17%);
 }
 
